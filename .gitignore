@@ -1,0 +1,8 @@
+# Project exclude paths
+/out/
+/SpringMVC_02_HelloMVC/target/
+/SpringMVC_03_Annotation/target/
+/SpringMVC_04_Controller/target/
+/SpringMVC_05_Restful/target/
+/SpringMVC_06_JSON/target/
+/SpringMVC_07_Interceptor/target/

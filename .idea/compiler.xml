@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringMVC_04_Controller" />
+        <module name="SpringMVC_08_FileUploadAndDownload" />
+        <module name="SpringMVC_01_Servlet" />
+        <module name="SpringMVC_05_Restful" />
+        <module name="SpringMVC_02_HelloMVC" />
+        <module name="SpringMVC_06_JSON" />
+        <module name="SpringMVC_03_Annotation" />
+        <module name="SpringMVC_07_Interceptor" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
